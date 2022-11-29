@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @EmalineG 
-- 📫 How to reach me ... em@rainbowkiwi.com
+- 📫 How to reach me ... emgayhart@gmail.com
 
 
