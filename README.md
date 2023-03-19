@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @EmalineG 
 
-- TextMeWhen Version 1.1 is released! Please view that repository for my most recent work with full stack development.
-- The TwitterQueryAndSentiment repository is the backend for a WIP project, which will soon be hosted on AWS and connected to a front end.
-- All other pinned repositories are projects from classes that I have found most interesting.
-
-You can also reach me through email or discord DMs, emgayhart@gmail.com or emzra#3910.
