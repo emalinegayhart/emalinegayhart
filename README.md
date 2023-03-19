@@ -4,7 +4,4 @@
 - The TwitterQueryAndSentiment repository is the backend for a WIP project, which will soon be hosted on AWS and connected to a front end.
 - All other pinned repositories are projects from classes that I have found most interesting.
 
-If you'd like to collaborate on any projects together or in parallel, join my discord community, CTRLSHIFTCOLLAB. 
-https://discord.gg/zNRTqUx6EX
-
 You can also reach me through email or discord DMs, emgayhart@gmail.com or emzra#3910.
