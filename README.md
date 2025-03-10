@@ -43,11 +43,9 @@ My journey in tech began with the [**Marginalized Genders in Gaming**](https://c
   - Jest, Mocha, Selenium
 
 
-### Passion
+### Side Projects
 
 I'm currently exploring ways to blend gaming and machine learning to create uniquely personal gaming experiences. If you have experience or passion in this area, I would love to chat!
-
-### Side Projects
 
 In my pinned projects you'll find my early game jam submissions & a real time subscription chat service for streamers. I've also contributed to open source projects in the past and am always on the look out for a fun one to join in on - if you have any recommendations, let me know!
 
