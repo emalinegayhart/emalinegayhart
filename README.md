@@ -9,7 +9,7 @@ My journey in tech began with the [**Marginalized Genders in Gaming**](https://c
 - Previously on a Backend Placement using **Ruby and Ruby on Rails**
 - **Applied Computer Science Student** at Dominican University of California  
 
-## Technologies & Skills
+### Technologies & Skills
 
 - **Languages**
   - Python, Ruby, TypeScript/Javascript, HTML/CSS
@@ -43,11 +43,11 @@ My journey in tech began with the [**Marginalized Genders in Gaming**](https://c
   - Jest, Mocha, Selenium
 
 
-## Passion for Gaming + ML
+### Passion for Gaming + ML
 
 I'm currently exploring ways to blend **gaming** and **machine learning** to create uniquely personal gaming experiences. If you have experience or passion in this area, I would love to chat!
 
-## Side Projects
+### Side Projects
 
 In my pinned projects you'll find my early game jam submissions, a real time subscription chat service for streamers, and one of my favorite school projects so far, a **virtual card sending website** where users can customize cards and messages, then share them with a personalized URL. I've also contributed to open source projects in the past and am always on the look out for a fun one to join in on - if you have any recommendations, let me know!
 
