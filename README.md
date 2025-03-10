@@ -49,7 +49,7 @@ I'm currently exploring ways to blend **gaming** and **machine learning** to cre
 
 ### Side Projects
 
-In my pinned projects you'll find my early game jam submissions, a real time subscription chat service for streamers, and one of my favorite school projects so far, a **virtual card sending website** where users can customize cards and messages, then share them with a personalized URL. I've also contributed to open source projects in the past and am always on the look out for a fun one to join in on - if you have any recommendations, let me know!
+In my pinned projects you'll find my early game jam submissions & a real time subscription chat service for streamers. I've also contributed to open source projects in the past and am always on the look out for a fun one to join in on - if you have any recommendations, let me know!
 
 I also host an intentionally inclusive & casual tech social called ["tech night!"](https://itstechnight.com) We have recently expanded to start hosting annual game jams, hackathons, and conference nights. 
 
