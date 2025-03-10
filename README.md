@@ -1,6 +1,6 @@
 # Hi, I'm Emaline 👋
 
-My journey in tech began with the **Marginalized Gender in Gaming** club at UC Berkeley, where I participated in their annual **Game Jams** and mentorship programs. Early on, I received mentorship from game developers, which sparked my interest in **game development** and **interactive experiences**. This led me to participate in **Technica**, the University of Maryland's hackathon for underrepresented genders in tech, which was such a great experience I was inspired to apply for software engineering internships as well. 
+My journey in tech began with the [**Marginalized Genders in Gaming**](https://cmgg.studentorg.berkeley.edu/) club at UC Berkeley, where I participated in their annual **Game Jams** and mentorship programs. Early on, I received mentorship from game developers, which sparked my interest in **game development** and **interactive experiences**. This led me to participate in [**Technica**](https://gotechnica.org/), the University of Maryland's hackathon for underrepresented genders in tech, which was such a great experience I was inspired to apply for software engineering internships as well. 
 
 ## About Me
 
