@@ -45,7 +45,7 @@ My journey in tech began with the [**Marginalized Genders in Gaming**](https://c
 
 ### Passion
 
-I'm currently exploring ways to blend **gaming** and **machine learning** to create uniquely personal gaming experiences. If you have experience or passion in this area, I would love to chat!
+I'm currently exploring ways to blend gaming and machine learning to create uniquely personal gaming experiences. If you have experience or passion in this area, I would love to chat!
 
 ### Side Projects
 
