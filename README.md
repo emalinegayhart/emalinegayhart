@@ -18,20 +18,15 @@ My journey in tech began with the [**Marginalized Genders in Gaming**](https://c
   - React.js, Ruby on Rails, Flask, GraphQL, Express  
 
 - **Machine Learning & AI**
-  - Natural Language Processing (NLP): Sentiment Analysis, BERT, Transformers  
-  - PyTorch, TensorFlow, Scikit-learn, LightGBM  
-  - Post-Processing & Data Preparation: Data Cleaning, Feature Engineering, Model Evaluation  
+  - Natural Language Processing (Sentiment Analysis, BERT, Transformers), PyTorch, TensorFlow, Scikit-learn, LightGBM  
+  - Post-Processing & Data Preparation (Data Cleaning, Feature Engineering, Model Evaluation)
   - Jupyter Notebooks (for adhoc ML experiments)
  
 - **Data Visualization & Analysis**
-  - Matplotlib, Seaborn  
-  - Exploratory Data Analysis (EDA)
+  - Matplotlib, Seaborn, Exploratory Data Analysis (EDA)
 
 - **Cloud & Big Data**
-  - Google Cloud Platform (GCP)  
-  - BigQuery  
-  - SQL: MySQL, PostgreSQL, SQLite  
-  - NoSQL: Elasticsearch  
+  - Google Cloud Platform (GCP), BigQuery, SQL (MySQL, PostgreSQL, SQLite), NoSQL (Elasticsearch)  
 
 - **Deployment & Containerization**
   - Docker, Kubernetes
