@@ -6,7 +6,7 @@ My journey in tech began with the [**Marginalized Genders in Gaming**](https://c
 
 - **Dev Degree Intern at Shopify**
 - Currently on an **Applied Machine Learning** Placement
-- Previously on a Backend Placement using **Ruby and Ruby on Rails**
+- Previously on a Backend Placement using **Ruby on Rails**
 - **Applied Computer Science Student** at Dominican University of California  
 
 ### Technologies & Skills
